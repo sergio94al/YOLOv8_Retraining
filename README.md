@@ -42,5 +42,8 @@ In this case, we employ a YOLO neural network retrained specifically for detecti
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/Video_predicting.gif" width="400" height="400" style="display: inline-block;">
 </p>
 
-
+## Resources
+1. https://docs.ultralytics.com/
+2. https://colab.research.google.com/ (Edit - Configurations - GPU T4)
+3. https://github.com/kiarashrahmani/Traffic-sign-detection-using-yolo/tree/main/Dataset (Dataset used)
 
