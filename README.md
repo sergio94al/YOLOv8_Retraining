@@ -17,7 +17,7 @@ Data
      
 In this way, .yaml files can be created to feed into the network for training. Once the network is trained, **training metrics** such as mAP, accuracy, recall, etc... can be obtained. During training, a run-detect folder is created for training and validation where all metrics, graphs and other data such as the best network parameters and the last run parameters are stored.
 
-run
+Runs
 - detect
     - train
         - weights
