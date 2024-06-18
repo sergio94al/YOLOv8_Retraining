@@ -22,7 +22,7 @@ In this way, .yaml files can be created to feed into the network for training. O
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/metrics_plots.png" width="900" height="400">
 </p>
 
-Once we have the model created and the best.pt weight parameters have been saved, we can load them in order to make predictions. 
+Once we have the model created and the **best.pt weight parameters** have been saved, we can load them in order to make predictions. 
 
 <p align="center">
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/predicting_images.png" width="950" height="350">
