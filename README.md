@@ -44,7 +44,7 @@ Once we have the model created and the **best.pt weight parameters** have been s
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/Video_predicting_code.png" width="800" height="700">
 </p>
 
-
+## Results from our custom YOLO
 In this case, we employ a YOLO neural network retrained specifically for detecting traffic signals in **images and videos**, analyzing each frame individually. This enables us to obtain accurate and reliable predictions regarding the presence and location of traffic signals in diverse and dynamic environments.
 
 <p align="center">
