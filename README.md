@@ -34,14 +34,14 @@ B. Runs
 ## 2. Predicting new images and videos
 Once we have the model created and the **best.pt weight parameters** have been saved, we can load them in order to make predictions. 
 
-### For image predictions:
+### - For image predictions:
 <p align="center">
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/predicting_images.png" width="950" height="350">
 </p>
 
-### For video predictions:
+### - For video predictions:
 <p align="center">
-    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/Video_predicting_code.png" width="800" height="700">
+    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/Video_predicting_code.png" width="850" height="750">
 </p>
 
 ## 3. Results from our custom YOLO
