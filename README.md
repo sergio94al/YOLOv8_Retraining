@@ -48,8 +48,8 @@ Once we have the model created and the **best.pt weight parameters** have been s
 In this case, we employ a YOLO neural network retrained specifically for detecting traffic signals in **images and videos**, analyzing each frame individually. This enables us to obtain accurate and reliable predictions regarding the presence and location of traffic signals in diverse and dynamic environments.
 
 <p align="center">
-    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/real_images_prediction.png" width="400" height="400" style="display: inline-block;">
-    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/Video_predicting.gif" width="400" height="400" style="display: inline-block;">
+    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/real_images_prediction.png" width="400" height="350" style="display: inline-block;">
+    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/Video_predicting.gif" width="400" height="350" style="display: inline-block;">
 </p>
 
 ## 4. Resources
