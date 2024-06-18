@@ -39,7 +39,7 @@ Once we have the model created and the **best.pt weight parameters** have been s
 </p>
 
 <p align="center">
-    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/Video_predicting_code.png" width="800" height="500">
+    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/Video_predicting_code.png" width="800" height="700">
 </p>
 
 
