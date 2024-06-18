@@ -5,6 +5,8 @@ This repository provides a comprehensive guide on retraining a **YOLO v8.2 netwo
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/dataset_.png" width="850" height="500">
 </p>
 
+## Data Preparing & Training
+
 The structure of the data folders must be: 
 
 Data
@@ -29,6 +31,7 @@ Runs
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/metrics_plots.png" width="900" height="400">
 </p>
 
+## Predicting new images and videos
 Once we have the model created and the **best.pt weight parameters** have been saved, we can load them in order to make predictions. 
 
 <p align="center">
