@@ -31,7 +31,7 @@ In this case, we employ a YOLO neural network retrained specifically for detecti
 
 <p align="center">
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/real_images_prediction.png" width="400" height="400" style="display: inline-block;">
-    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/Video_predicting.gif" width="500" height="400" style="display: inline-block;">
+    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/Video_predicting.gif" width="400" height="400" style="display: inline-block;">
 </p>
 
 
