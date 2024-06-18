@@ -24,3 +24,8 @@ In this case we make predictions on images and on videos frame by frame, getting
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/real_images_prediction.png" width="500" height="400">
 </p>
 
+<p align="center">
+    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/real_images_prediction.png" width="500" height="400">
+</p>
+
+
