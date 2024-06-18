@@ -16,7 +16,7 @@ Data
   - val
 
     
-In this way, .yaml files can be created to feed into the network for training. Once the network is trained, training metrics such as mAP, accuracy, recall, etc... can be obtained.
+In this way, .yaml files can be created to feed into the network for training. Once the network is trained, **training metrics** such as mAP, accuracy, recall, etc... can be obtained.
 
 <p align="center">
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/metrics_plots.png" width="900" height="400">
