@@ -14,7 +14,7 @@ Data
 In this way, .yaml files can be created to feed into the network for training. Once the network is trained, training metrics such as mAP, accuracy, recall, etc... can be obtained.
 
 <p align="center">
-    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main//metrics.jpg" width="550" height="400">
+    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/metrics_plots.png" width="550" height="400">
 </p>
 
 Once we have the model created and the best.pt weight parameters have been saved, we can load them in order to make predictions. 
