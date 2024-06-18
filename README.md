@@ -4,6 +4,7 @@ This repository provides a comprehensive guide on retraining a **YOLO v8.2 netwo
 <p align="center">
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/dataset_.png" width="850" height="500">
 </p>
+In this case, in order to limit the training, only the first 5 classes, which are traffic signs, are trained.
 
 ## 1. Data Preparing & Training
 
