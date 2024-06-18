@@ -19,9 +19,11 @@ In this way, .yaml files can be created to feed into the network for training. O
 
 run
 - detect
---- weights
---- train
---- val
+    - train
+        - weights
+              - best.pt
+              - last.pt
+    - val
 
 <p align="center">
     <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/metrics_plots.png" width="900" height="400">
