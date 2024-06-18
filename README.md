@@ -2,7 +2,7 @@
 This repository explains how to retrain a YOLO network with our data to do detection.
 
 <p align="center">
-    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/dataset_.png" width="950" height="400">
+    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/dataset_.png" width="950" height="600">
 </p>
 
 The structure of the data folders must be: 
