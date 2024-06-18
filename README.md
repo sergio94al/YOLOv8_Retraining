@@ -25,7 +25,7 @@ In this case we make predictions on images and on videos frame by frame, getting
 </p>
 
 <p align="center">
-    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/output_video_full.gif" width="500" height="400">
+    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/Video_predicting.gif" width="500" height="400">
 </p>
 
 
