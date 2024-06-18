@@ -3,12 +3,13 @@ This repository explains how to retrain a YOLO network with our data to do detec
 The structure of the data folders must be: 
 
 Data
-├── images
-│   ├── train
-│   └── val
-└── labels
-    ├── train
-    └── val
+- images
+  - train
+  - val
+- labels
+  - train
+  - val
+
     
 In this way, .yaml files can be created to feed into the network for training. Once the network is trained, training metrics such as mAP, accuracy, recall, etc... can be obtained.
 
