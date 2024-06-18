@@ -21,8 +21,8 @@ run
 - detect
     - train
         - weights
-              - best.pt
-              - last.pt
+          - best.pt
+          - last.pt
     - val
 
 <p align="center">
