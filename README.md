@@ -1,4 +1,4 @@
-# YOLOv8.2_Retraining
+# Retraining YOLOv8 for custom datasets
 This repository provides a comprehensive guide on retraining a **YOLO v8.2 network using custom datasets** for precise **traffic signal detection and identification**, typically employed in autonomous vehicle applications. For this purpose, Google Colab and its GPU T4 are utilized to enhance the efficiency of the training process.
 
 <p align="center">
