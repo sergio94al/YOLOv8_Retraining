@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/ai_hub.jpg" width="850" height="500">
+    <img src="https://github.com/sergio94al/YOLOv8_Retraining/blob/main/ai_hub.jpg" width="350" height="100">
 </p>
 
 # Retraining YOLOv8 for custom datasets
